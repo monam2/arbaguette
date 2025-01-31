@@ -2,6 +2,7 @@
 # 📱 아르바게트 소개
 > Arbeit + Baguette
 > "사장님과 알바생을 위한 월급정산, 근무스케줄 관리 및 뱅킹서비스"
+<h2><a href="https://www.youtube.com/watch?v=F8p85hRpVNs" target="_blank">:green_heart: 시연 영상</a></h2>
 
 ## 📅 개발 기간
 **24.08.19 ~ 24.10.11** (7주)
